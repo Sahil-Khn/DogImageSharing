@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DogImageSharing</string>
+    <string name="loved_it">Loved It</string>
+    <string name="skip">Skip</string>
+    <string name="image">image</string>
+    <string name="sahil_finds_dogs_adorable">~Sahil finds dogs adorable</string>
+</resources>
